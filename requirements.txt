@@ -1,0 +1,8 @@
+certifi==2025.8.3
+charset-normalizer==3.4.2
+idna==3.10
+PySocks==1.7.1
+pyTelegramBotAPI==4.22.1
+python-dotenv==1.0.1
+requests==2.32.4
+urllib3==2.5.0
